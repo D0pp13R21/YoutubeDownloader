@@ -19,7 +19,7 @@ pip install pytube
 1. Execute o arquivo `youtube_downloader.py`.
 2. Insira o link do vídeo do YouTube que deseja baixar.
 3. Selecione a resolução desejada para o vídeo.
-4. Marque a opção "Baixar apenas áudio" se preferir baixar apenas o áudio em formato MP3.
+4. <s>//Marque a opção "Baixar apenas áudio" se preferir baixar apenas o áudio em formato MP3.//</s> Não disponível por causa de bug
 5. Clique no botão "Baixar" para iniciar o processo de download.
 6. Aguarde até que o download seja concluído.
 7. O vídeo será salvo na mesma pasta do programa.
